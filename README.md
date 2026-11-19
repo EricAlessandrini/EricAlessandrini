@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Eric 👋
 
-<!--
-**EricAlessandrini/EricAlessandrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Backend Developer** en formación | Córdoba, Argentina 🇦🇷
 
-Here are some ideas to get you started:
+Estudio la Tecnicatura en Desarrollo de Aplicaciones Informáticas
+en el Instituto Aeronáutico Nacional y busco mi primera
+oportunidad **remota** como desarrollador Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+## 🚀 Proyectos destacados
+- **[Nombre del proyecto](link)**: una línea de qué hace.
+- **[Nombre del proyecto](link)**: una línea de qué hace.
+
+## 📫 Contacto
+- LinkedIn: [tu link]
+- Email: tu@email.com
