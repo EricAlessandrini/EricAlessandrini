@@ -14,5 +14,5 @@ oportunidad **remota** como desarrollador Java.
 - Proximamente
 
 ## 📫 Contacto
-- LinkedIn: [[tu link](https://www.linkedin.com/in/eric-alessandrini-a32827264)]
+- LinkedIn: https://www.linkedin.com/in/eric-alessandrini29
 - Email: eric.alessandrini1@gmail.com
