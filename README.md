@@ -11,9 +11,8 @@ oportunidad **remota** como desarrollador Java.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🚀 Proyectos destacados
-- **[Nombre del proyecto](link)**: una línea de qué hace.
-- **[Nombre del proyecto](link)**: una línea de qué hace.
+- Proximamente
 
 ## 📫 Contacto
-- LinkedIn: [tu link]
-- Email: tu@email.com
+- LinkedIn: [[tu link](https://www.linkedin.com/in/eric-alessandrini-a32827264)]
+- Email: eric.alessandrini1@gmail.com
